@@ -1,3 +1,5 @@
 # Hello-World
 My first repository demba
 DEMBA KI DUNIYA
+achhi duniya
+Python C++
